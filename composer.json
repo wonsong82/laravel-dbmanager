@@ -1,5 +1,5 @@
 {
-    "name": "won/db-manager",
+    "name": "wonsong82/laravel-dbmanager",
     "description": "Backup and Restore Database",
     "license": "MIT",
     "authors": [
